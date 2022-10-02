@@ -1,0 +1,7 @@
+/*在我们想要应用这个css文件的网页内，我们首先要将这个css文件引入进去*/
+/*具体的引入方法为：*/
+/*<link rel="stylesheet" type="text/css" href="external_style_sheet.css">*/
+/*由此我们可以在这个文件中设置html文件的样式*/
+hr {color:sienna;}
+p {margin-left:20px;}
+body {background-image:url("#");}
